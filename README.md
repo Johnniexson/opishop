@@ -1,5 +1,7 @@
 # Opishop
 
+This project was generated with [Vue CLI](https://cli.vuejs.org/guide/) @vue/cli 4.5.6.
+
 ## Project setup
 
 ```
@@ -12,11 +14,15 @@ npm install
 json-server --watch src/db.json
 ```
 
+Run `json-server --watch src/db.json` to start server.
+
 ### Compiles and hot-reloads for development
 
 ```
 npm run serve
 ```
+
+Run `npm run serve` for a dev server. Navigate to `http://localhost:8080/` to view project.
 
 ### Compiles and minifies for production
 
